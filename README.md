@@ -9,7 +9,7 @@ A Roblox Game about building a monster truck, crashing through obstacles to earn
 
 For these hours, I only scripted some core mechanics of the game. The game is unfinished and some other features such as money or the shop won't work.
 ## NOTE: 
-The code files are just the ones I wrote or modified. They don't work outside of the game.
+The code files are just the ones I wrote. They don't work outside of the game.
 ### What I did: 
 - Vehicle Stats: Dynamically Calculates total fuel, strength, and engine power of the truck as it is being built, ignoring blocks that are not connected.
 - Vehicle Setup: Attaches all the blocks together, adds suspension and motors to wheels, creates flipping and steering forces, and sends important information to the vehicle controller when the Drive button is pressed.
