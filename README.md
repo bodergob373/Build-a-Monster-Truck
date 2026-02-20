@@ -17,6 +17,6 @@ The code files are just the ones I wrote or modified. They don't work outside of
 - Obstacle Destruction: Detects collisions between the truck and obstacles ahead of time, and calculates the damage done to the obstacle and the truck. If the obstacle gets destroyed, destruction effects are shown, the truck is slowed down based on its strength, and the truck gets damaged. If the obstacle does not get destroyed, it completely stops the truck and damages it.
 - Vehicle Destruction: The truck loses random blocks as it gets damaged by obstacles and falls apart when it is completely destroyed.
 ## Instructions
-- Build a simple vehicle using the build and delete buttons. Make sure it has and engine, driver seat, and fuel
+- Build a simple vehicle. The button on the right of the block inventory makes it show the next row. Make sure the truck has an engine, driver seat, and fuel
 - Press the drive button
-- Drive the truck into plants and rocks
+- Drive the truck into plants and rocks.
